@@ -1,7 +1,9 @@
 # This is my GitHub Pages Page
 
-Hello, World!
-<br><br><br><br><br>
-P.S.
-<br><br>
+Hello, World!\
+\
+\
+\
+\
+P.S.\
 Have a nice day! :)
