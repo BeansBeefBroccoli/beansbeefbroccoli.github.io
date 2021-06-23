@@ -1,2 +1,4 @@
-This is my GitHub Pages Page
-Soon, I'll add my *Minecraft* content. (Datapacks, Resource Packs, Mods)
+# Yay.
+
+This is my GitHub Pages Page.
+Soon, I'll add *Minecraft* modifications I make. (Datapacks, Resource Packs, Mods)
