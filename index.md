@@ -1,5 +1,4 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 # This is my GitHub Pages Page
 
 Hello, World!\
