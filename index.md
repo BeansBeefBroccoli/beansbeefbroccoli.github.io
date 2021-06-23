@@ -1,8 +1,4 @@
-<html>
-  <head>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  </head>
-</html>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # This is my GitHub Pages Page
 
