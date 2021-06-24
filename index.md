@@ -2,11 +2,11 @@
 
 ## Hello, World!
 
-### [Datapacks](Datapacks)
+### [Datapacks](datapacks)
 
-### [Mods](Mods)
+### [Mods](mds)
 
-### [Resource Packs](Resource-Packs)
+### [Resource Packs](resource-packs)
 \
 \
 \
