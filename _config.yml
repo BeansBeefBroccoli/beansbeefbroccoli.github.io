@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: BeansBeefBroccoli's Stuff
 description: The Site for my <i>Minecraft</i> Modifications
 github:
+  is_project_page: true
   repository_url: https://github.com/BeansBeefBroccoli/BeansBeefBroccoli.github.io
