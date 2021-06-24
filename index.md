@@ -4,7 +4,7 @@
 
 ### [Datapacks](datapacks)
 
-### [Mods](mds)
+### [Mods](mods)
 
 ### [Resource Packs](resource-packs)
 \
