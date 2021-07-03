@@ -1,6 +1,8 @@
 [//]: <> # BeansBeefBroccoli's Stuff
 
-## Hello, World!
+## Hello, people of the internet.
+
+__I welcome you into my humble abode.__
 
 ### [Datapacks](datapacks)
 
