@@ -1,8 +1,8 @@
 [//]: <> # BeansBeefBroccoli's Stuff
 
-## Hello, people of the internet.
+<div align="center">## Hello, people of the internet.
 
-__I welcome you into my humble abode.__
+__I welcome you into my humble abode.__</div>
 
 ### [Datapacks](datapacks)
 
