@@ -1,10 +1,12 @@
-# Yay.
+# Yay!
 
-This is my GitHub Pages page.
-Soon, I'll add the *Minecraft* modifications I make. (Datapacks, Resource Packs, Mods)\
-\
-\
-\
-\
+This is my GitHub Pages page.<br>
+Soon, I'll add my Minecraft modifications. (Datapacks, Resource Packs, Mods)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 P.S.
 Have a nice day! :)
