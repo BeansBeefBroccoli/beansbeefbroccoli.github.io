@@ -6,12 +6,10 @@
 
 <p align="center"><b>I welcome you into my humble abode.</b></p>
 
-### [Datapacks](datapacks)<br>
-### [Mods](mods)<br>
-### [Resource Packs](resource-packs)
+### [Datapacks](datapacks) <br> [Mods](mods) <br> [Resource Packs](resource-packs)
 
 <br>
 <br>
 
-P.S.<br>
+P.S. <br>
 Have a nice day! :)
