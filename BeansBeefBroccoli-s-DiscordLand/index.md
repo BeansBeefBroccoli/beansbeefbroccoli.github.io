@@ -6,5 +6,7 @@
 
 <p align="right"><a href="/"><b>Back to Home</b></a> <img src="/images/home.png" alt="Home" width="24" height="24" style="vertical-align:middle"></p>
 
+<iframe src="https://discord.com/widget?id=862005828219174913&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 BeansBeefBroccoli's DiscordLand is my discord server. You can join it [here](https://discord.gg/4yfdME5QjC).<br>
 My server is a small casual gaming server (mostly Minecraft) though we are hoping to become much bigger someday. I have not gone too crazy on bots, there are 6 so far, but 4 of those are publicity bots. The currently installed bots are: [Arcane](https://arcane.bot), [Dyno](https://dyno.gg), [DISBOARD.org](https://disboard.org), [Discord.Me](https://discord.me), [DS.ME](https://discords.com), and [Statbot](https://statbot.net), but I might add [UnbelievaBoat](https://unbelievaboat.com) in the future.
