@@ -1,7 +1,6 @@
-# Yay!
+# BeansBeefBroccoli's Stuff
 
-This is my GitHub Pages page.<br>
-Soon, I'll add my Minecraft modifications. (Datapacks, Resource Packs, Mods)
+This is my GitHub Pages website. It currentyly holds my portfolio, a page about my Discord server, and a couple ages about my Minecraft Modifactions
 
 <br>
 <br>
