@@ -4,10 +4,10 @@
 
 <p align="center"><b>I welcome you into my humble abode.</b></p>
 
-### [Portfolio](Portfolio) <br> [Discord Server](BeansBeefBroccoli-s-DiscordLand) <br> [Minecraft Modifications](Minecraft)
+### [Portfolio](portfolio)<br>[Discord Server](discord)<br>[Minecraft Things](minecraft)
 
 <br>
 <br>
 
-P.S. <br>
+P.S.<br>
 Have a nice day! :)

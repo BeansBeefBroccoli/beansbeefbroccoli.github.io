@@ -4,4 +4,4 @@
 
 <br>
 
-### [Datapacks](Datapacks) <br> [Resource Packs](Resource-Packs) <br> [Mods](Mods) <br> [Modpacks](Modpacks)
+### [Datapacks](datapacks) <br> [Resource Packs](resource-packs) <br> [Mods](mods) <br> [Modpacks](modpacks)
